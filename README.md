@@ -9,6 +9,7 @@
 1. `docker pull v2ray/official`
 1. `git clone https://github.com/weaming/v2rayProfiles.git`
 1. `cd v2rayProfiles`
+1. configurate your UUID in `config/*.json`
 1. `source ./commands.sh`
 1. `startv2ray` or `startv2ray2`
 1. setup in clients
